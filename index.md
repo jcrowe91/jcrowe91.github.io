@@ -4,31 +4,45 @@
 
 Software Developer and Machinist.
 
-##Education:
-True Coders — Advanced Technical Training — Aug 2021 - Feb 2022
+## Education:
+-True Coders — Advanced Technical Training — Aug 2021 - Feb 2022
+
 The TrueCoders training program is a project and lecture-based training program that aims to fill the growing need for data science and software development jobs in Alabama. Projects include multiple personal and group-oriented tasks that involve multiple programming languages over the course of the program.
 Over 500 hours of intensive, project-based training in programming languages and other technical skills, such as C#, .NET Core, SQL, Git, ASP.NET MVC, HTML, CSS, and JavaScript.
 These skills were developed by building multiple C# and SQL projects
 C# and SQL Projects were tracked using Git and GitHub for source control.
 
-##Work Experience:
-A & W Machine Shop, Birmingham Alabama— Lead Machinist
+## Work Experience:
+-A & W Machine Shop, Birmingham Alabama— Lead Machinist
 July 2010 - PRESENT
--
--
--
-Zorn Molds, Trafford Alabama — CNC Machinist
-Septemeber 2020 - March 2021
--
--
--
-MetSouth, Hanceville Alabama — CNC Machinist
-March 2021 - September 2021
--
--
--
 
-##Project Portfolio:
+  I've spent ten years working in machine shops. For the most part, I've
+worked as a lead machinist at A & W Machine, learning to operate every machine and
+piece of equipment available to me. This includes lathes (including Verticle Turret Lathes), milling
+machines, boring mills, threading machines, overhead cranes, etc. I am a certified forklift operator.
+
+-Zorn Molds, Trafford Alabama — CNC Machinist
+Septemeber 2020 - March 2021
+
+  I left there for a while while I was working on my degree to go learn about Computer Numeric
+Controlled machining. This is a high end, fast-paced process to make extremely precise parts using
+CAD/CAM and GCode, a programming language using numbers. I started to work at Zorn Molds, which
+I had worked part-time in the afternoon until they offered me a full-time position. I learned a lot
+at Zorn about making high-quality parts for molding machines. I also learned KANBAN systems, as
+well as some experience in woodworking and 3D printing.
+
+-MetSouth, Hanceville Alabama — CNC Machinist
+March 2021 - September 2021
+
+  From there I was offered an apprenticeship
+at MetrologySouth, a company that works in the automotive and aerospace industry. I got to learn about
+Computer-Aided Design and programming on multi-axis machines. I also got experience in
+welding and fabricating while I was there.
+
+I was eventually offered a job back at A & W to learn under
+the shop supervisor, so I went back. All in all, it's been a very rewarding career.
+
+## Project Portfolio:
 
 
 
