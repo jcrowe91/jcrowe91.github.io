@@ -16,6 +16,8 @@ Over 500 hours of intensive, project-based training in programming languages and
 These skills were developed by building multiple C# and SQL projects.<br>
 C# and SQL Projects were tracked using Git and GitHub for source control.
 
+[View Certificate](https://app.digit.ink/view-credential/2e763371-1803-42e5-80f6-1592c4a14f30)
+
 ## Project Portfolio:
 
 My personal Github repository is linked at the top of this page, as well as below in Contact Information.
