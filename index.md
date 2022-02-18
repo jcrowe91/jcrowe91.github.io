@@ -69,7 +69,7 @@ the shop supervisor, so I went back. All in all, it's been a very rewarding care
 ## Contact Information
 If you would like to get in touch with me feel free to send an email to: jcrowe9119@gmail.com
 
-My [LinkedIn](www.linkedin.com/in/jacobcrowe91).
+My [LinkedIn](https://www.linkedin.com/mwlite/in/jacobcrowe91).
 
 My [Github](https://github.com/jcrowe91).
 
