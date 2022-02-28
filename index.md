@@ -17,6 +17,7 @@ These skills were developed by building multiple C# and SQL projects.<br>
 C# and SQL Projects were tracked using Git and GitHub for source control.
 
 [View Certificate](https://app.digit.ink/view-credential/2e763371-1803-42e5-80f6-1592c4a14f30)
+[SQL Certificate](https://www.sololearn.com/certificates/course/en/24244362/1060/landscape/png)
 
 ## Project Portfolio:
 
@@ -69,7 +70,7 @@ the shop supervisor, so I went back. All in all, it's been a very rewarding care
 ## Contact Information
 If you would like to get in touch with me feel free to send an email to: jcrowe9119@gmail.com
 
-My [LinkedIn](https://www.linkedin.com/mwlite/in/jacobcrowe91).
+My [LinkedIn](www.linkedin.com/in/jacob-crowe-b66435208).
 
 My [Github](https://github.com/jcrowe91).
 
