@@ -73,7 +73,7 @@ If you would like to get in touch with me feel free to send an email to: jcrowe9
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jacobcrowe91" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jacobcrowe91?trk=profile-badge">My LinkedIn</a></div>
               
 
-My [Github](https://github.com/jcrowe91).
+[My Github](https://github.com/jcrowe91).
 
 
 
