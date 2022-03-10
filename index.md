@@ -4,6 +4,8 @@
 
 **Software Developer and Machinist.**
 
+[PDF Resume](https://drive.google.com/drive/u/0/folders/1X3QS3rEr533_iSm8M68p2C9pelNHclE4)
+
 Hello there, my name is Jake. After a rewarding decade-long career in manufacturing, I've decided to learn to code.<br>
 I've always enjoyed technology, as well as working with my hands, so CNC programming led me to C# programming.
 
@@ -16,14 +18,18 @@ Over 500 hours of intensive, project-based training in programming languages and
 These skills were developed by building multiple C# and SQL projects.<br>
 C# and SQL Projects were tracked using Git and GitHub for source control.
 
-[View Certificate](https://app.digit.ink/view-credential/2e763371-1803-42e5-80f6-1592c4a14f30)<br>
-[SQL Certificate](https://www.sololearn.com/certificates/course/en/24244362/1060/landscape/png)
+[TrueCoders Certificate](https://app.digit.ink/view-credential/2e763371-1803-42e5-80f6-1592c4a14f30)<br>
+[SoloLearn C# Certificate](https://www.sololearn.com/certificates/course/en/24244362/1080/landscape/png)<br>
+[SoloLearn SQL Certificate](https://www.sololearn.com/certificates/course/en/24244362/1060/landscape/png)
 
 ## Project Portfolio:
 
 My personal Github repository is linked at the top of this page, as well as below in Contact Information.
 Here I'll showcase a few projects I've built, as well as give some insights to how the code works
 and I'll link directly to the repo:
+
+[Phonebook Application](https://github.com/jcrowe91/PhoneBookApplication/tree/main/PhoneBookApplication)
+-A fully functional application that will take in user contact information, allow for CRUD operations, and save to/read from a .csv file. Also includes an API.
 
 [ASP.NET MVC Project](https://github.com/jcrowe91/ASPNET)
 -ASP.NET MVC Framework used to create a project that allows for CRUD operations to be used with a MySQL Database. 
@@ -33,9 +39,6 @@ and I'll link directly to the repo:
 
 [Conversation Between Kanye West and Ron Swanson](https://github.com/jcrowe91/APIExercise)
 -C# .Net Core Application where I use two different APIs to obtain quotes from Kanye West as JSON Objects, and quotes from Ron Swanson as JSON Arrays. The quotes are then used to simulate a conversation between the two.
-
-[Palindrome Unit Testing](https://github.com/jcrowe91/PalindromeExercise)
--Exercise utilizing xUnit with Test Driven Development 
 
 ## Work Experience:
 -A & W Machine Shop, Birmingham Alabama— Lead Machinist <br>
