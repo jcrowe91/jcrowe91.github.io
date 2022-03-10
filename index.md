@@ -10,7 +10,7 @@ Hello there, my name is Jake. After a rewarding decade-long career in manufactur
 I've always enjoyed technology, as well as working with my hands, so CNC programming led me to C# programming.
 
 ## Education:
-[TrueCoders]((https://truecoders.io/)) — Advanced Technical Training <br>
+[TrueCoders](https://truecoders.io/) — Advanced Technical Training <br>
 Aug 2021 - Feb 2022
 
 TrueCoders is a project and lecture-based training program that aims to fill the growing need for data science and software development jobs in Alabama. Projects include multiple personal and group-oriented tasks that involve multiple programming languages throughout the program.
