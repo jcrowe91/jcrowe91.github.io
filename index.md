@@ -34,11 +34,12 @@ and I'll link directly to the repo:
 [ASP.NET MVC Project](https://github.com/jcrowe91/ASPNET)
 -ASP.NET MVC Framework used to create a project that allows for CRUD operations to be used with a MySQL Database. 
 
+[KanyeREST API Application](https://github.com/jcrowe91/APIExercise)
+-C# .Net Core Application where I use two different APIs to obtain quotes from Kanye West as JSON Objects, and quotes from Ron Swanson as JSON Arrays. The quotes are then used to simulate a conversation between the two.
+
 [Taco Parser](https://github.com/jcrowe91/TacoParser)
 -C# .NET Core Application where I parse data from a csv file to reference Taco Bell Locations. That data is then used to calculate the distance between the two locations that are farthest apart. 
 
-[KanyeREST API Application](https://github.com/jcrowe91/APIExercise)
--C# .Net Core Application where I use two different APIs to obtain quotes from Kanye West as JSON Objects, and quotes from Ron Swanson as JSON Arrays. The quotes are then used to simulate a conversation between the two.
 
 ## Work Experience:
 -[A & W Machine Shop](https://www.bloomberg.com/profile/company/0432836D:US), Birmingham Alabama— Lead Machinist <br>
