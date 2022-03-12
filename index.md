@@ -37,11 +37,11 @@ and I'll link directly to the repo:
 [Taco Parser](https://github.com/jcrowe91/TacoParser)
 -C# .NET Core Application where I parse data from a csv file to reference Taco Bell Locations. That data is then used to calculate the distance between the two locations that are farthest apart. 
 
-[Conversation Between Kanye West and Ron Swanson](https://github.com/jcrowe91/APIExercise)
+[KanyeREST API Application](https://github.com/jcrowe91/APIExercise)
 -C# .Net Core Application where I use two different APIs to obtain quotes from Kanye West as JSON Objects, and quotes from Ron Swanson as JSON Arrays. The quotes are then used to simulate a conversation between the two.
 
 ## Work Experience:
--A & W Machine Shop, Birmingham Alabama— Lead Machinist <br>
+-[A & W Machine Shop](https://www.bloomberg.com/profile/company/0432836D:US), Birmingham Alabama— Lead Machinist <br>
 July 2010 - PRESENT
 
   I've spent ten years working in machine shops. For the most part, I've
@@ -49,7 +49,7 @@ worked as a lead machinist at A & W Machine, learning to operate every machine a
 piece of equipment available to me. This includes lathes (including Verticle Turret Lathes), milling
 machines, boring mills, threading machines, overhead cranes, etc. I am a certified forklift operator.
 
--Zorn Molds, Trafford Alabama — CNC Machinist <br>
+-[Zorn Molds](http://www.zornmolds.com/), Trafford Alabama — CNC Machinist <br>
 Septemeber 2020 - March 2021
 
   I left there for a while while I was working on my degree to go learn about Computer Numeric
@@ -59,7 +59,7 @@ I had worked part-time in the afternoon until they offered me a full-time positi
 at Zorn about making high-quality parts for molding machines. I also learned KANBAN systems, as
 well as some experience in woodworking and 3D printing.
 
--MetSouth, Hanceville Alabama — CNC Machinist <br>
+-[MetSouth](https://met-south.com/), Hanceville Alabama — CNC Machinist <br>
 March 2021 - September 2021
 
   From there I was offered an apprenticeship
