@@ -31,11 +31,12 @@ and I'll link directly to the repo:
 [Phonebook Application](https://github.com/jcrowe91/PhoneBookApplication/tree/main/PhoneBookApplication)
 -A fully functional application that will take in user contact information, allow for CRUD operations, and save to/read from a .csv file. Also includes an API.
 
+[KanyeREST API Application](https://github.com/jcrowe91/APIExercise)
+-C# .Net Core Application where I use two different APIs to obtain quotes from Kanye West as JSON Objects, and quotes from Ron Swanson as JSON Arrays. The quotes are then used to simulate a conversation between the two.<br>
+-[Video Demo](https://drive.google.com/file/d/13ExprQnQceV2xAzjysNd6wdX5eCpimB5/view?usp=sharing)
+
 [ASP.NET MVC Project](https://github.com/jcrowe91/ASPNET)
 -ASP.NET MVC Framework used to create a project that allows for CRUD operations to be used with a MySQL Database. 
-
-[KanyeREST API Application](https://github.com/jcrowe91/APIExercise)
--C# .Net Core Application where I use two different APIs to obtain quotes from Kanye West as JSON Objects, and quotes from Ron Swanson as JSON Arrays. The quotes are then used to simulate a conversation between the two.
 
 [Taco Parser](https://github.com/jcrowe91/TacoParser)
 -C# .NET Core Application where I parse data from a csv file to reference Taco Bell Locations. That data is then used to calculate the distance between the two locations that are farthest apart. 
