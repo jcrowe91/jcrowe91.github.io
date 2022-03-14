@@ -29,7 +29,8 @@ Here I'll showcase a few projects I've built, as well as give some insights to h
 and I'll link directly to the repo:
 
 [Phonebook Application](https://github.com/jcrowe91/PhoneBookApplication/tree/main/PhoneBookApplication)
--A fully functional application that will take in user contact information, allow for CRUD operations, and save to/read from a .csv file. Also includes an API.
+-A fully functional application that will take in user contact information, allow for CRUD operations, and save to/read from a .csv file. Also includes an API.<br>
+-[Video Demo](https://drive.google.com/file/d/1Ob8SHmnknHx27LayUvM0fMfEEPAy32ur/view?usp=sharing)
 
 [KanyeREST API Application](https://github.com/jcrowe91/APIExercise)
 -C# .Net Core Application where I use two different APIs to obtain quotes from Kanye West as JSON Objects, and quotes from Ron Swanson as JSON Arrays. The quotes are then used to simulate a conversation between the two.<br>
