@@ -36,6 +36,10 @@ and I'll link directly to the repo:
 -C# .Net Core Application where I use two different APIs to obtain quotes from Kanye West as JSON Objects, and quotes from Ron Swanson as JSON Arrays. The quotes are then used to simulate a conversation between the two.<br>
 -[Video Demo](https://drive.google.com/file/d/13ExprQnQceV2xAzjysNd6wdX5eCpimB5/view?usp=sharing)
 
+[TheStoicRobot](https://github.com/jcrowe91/TheStoicRobot)
+-C# application using Twitter's API and developer platform to automate tweeting out quotes from noteable Stoics set to a certain timeframe.<br>
+-[@thestoicrobot](https://twitter.com/thestoicrobot)
+
 [ASP.NET MVC Project](https://github.com/jcrowe91/ASPNET)
 -ASP.NET MVC Framework used to create a project that allows for CRUD operations to be used with a MySQL Database. 
 
