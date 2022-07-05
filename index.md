@@ -50,7 +50,7 @@ and I'll link directly to the repo:
 -[A & W Machine Shop](https://www.bloomberg.com/profile/company/0432836D:US), Birmingham Alabama— Lead Machinist <br>
 July 2010 - April 2022
 
-  I've spent ten years working in machine shops. For the most part, I've
+  I've spent over a decade working in machine shops. For the most part, I've
 worked as a lead machinist at A & W Machine, learning to operate every machine and
 piece of equipment available to me. This includes lathes (including Verticle Turret Lathes), milling
 machines, boring mills, threading machines, overhead cranes, etc. I am a certified forklift operator.
