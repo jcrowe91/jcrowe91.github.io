@@ -48,7 +48,7 @@ and I'll link directly to the repo:
 
 ## Work Experience:
 -[A & W Machine Shop](https://www.bloomberg.com/profile/company/0432836D:US), Birmingham Alabama— Lead Machinist <br>
-July 2010 - PRESENT
+July 2010 - April 2022
 
   I've spent ten years working in machine shops. For the most part, I've
 worked as a lead machinist at A & W Machine, learning to operate every machine and
@@ -73,8 +73,10 @@ at MetrologySouth, a company that works in the automotive and aerospace industry
 Computer-Aided Design and programming on multi-axis machines. I also got experience in
 welding and fabricating while I was there.
 
-I was eventually offered a job back at A & W to learn under
-the shop supervisor, so I went back. All in all, it's been a very rewarding career.
+-[Hexagon](https://www.hexagongeospatial.com/), Madison Alabama - ServiceNow Developer <br>
+April 2022 - Present
+
+  I finally got a job working as a developer on the ServiceNow platform. I use JavaScript as well as do sysadmin duties, Devops, and AWS for telephony services. I get to work with a very talented group of developers, and I'm very thankful for the opportunity.
 
 ## Contact Information
 If you would like to get in touch with me feel free to send an email to: jcrowe9119@gmail.com
