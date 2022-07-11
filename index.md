@@ -86,7 +86,7 @@ If you would like to get in touch with me feel free to send an email to: jcrowe9
 
 [My Github](https://github.com/jcrowe91).
 
-[![Jacob Crowe github stats](https://github-readme-stats.vercel.app/api?username=jcrowe91&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Jacob Crowe github stats](https://github-readme-stats.vercel.app/api?username=jcrowe91&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
